@@ -1,15 +1,13 @@
-# Welcome To Bonus Challenge #
+# Hold The Flag Challenge - 7 points #
 
-This repository allows all teams a chance to earn extra points, 20 in total.
-If you can see a timer on the projector, it means that this bonus round has a limited
-time to earn points.
+The team who is the LAST to "Hold Their Team Flag" image when the time runs out is the winner.
+You need to upload your team flag image to the images folder and then edit the img src in index.html.
 
-## How to earn points?
+### How the winner is determined? ###
 
-This repository contains multiple branches, each one corresponding to a single challenge. 
-Further instructions are within each branch documentation.
+When the time runs out, I will pull this branch to my local pc. 
+The team, whose flag I see there, is the winner. 
 
-### Sabotaging
+### What if there is no flag or image doesn't show up correctly? ###
 
-You can try to win time & sabotage another team in any creative way you know, except physical.
-If in the end, the task is not considered completed by any team, nobody will receive points. 
+Nobody gets points.
